@@ -1,0 +1,1 @@
+Weather web application created on fastAPI 
